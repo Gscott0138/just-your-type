@@ -1,0 +1,30 @@
+.line-1, .line-2 {
+  font-family: "Roboto Condensed", sans-serif;
+  text-decoration: none;
+  color: #fff;
+}
+
+.line-3 {
+  font-family: Londrina Outline, sans-serif;
+  color: #fff;
+}
+
+.line-3:hover {
+  font-family: Londrina Solid, sans-serif;
+  color: #fff;
+}
+
+html {
+  background-color: pink;
+}
+
+.container {
+  margin: 1  rem;
+  border-style: solid;
+  border-color: #fff;
+}
+
+.container-3 {
+  font-family: Playfair Display, serif;
+  color: #000;
+}
