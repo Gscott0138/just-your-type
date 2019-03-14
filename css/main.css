@@ -36,7 +36,11 @@ html {
 
   .large {
     opacity: .5;
-    position: relative;
+  }
+
+  .container-3 {
+    position: absolute;
+    transform: translateY(-105%);
   }
 
 }
