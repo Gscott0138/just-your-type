@@ -14,11 +14,12 @@
   color: #fff;
 }
 
-html {
+body {
+  overflow: hidden;
   background-color: pink;
 }
 
-.container {
+.big-container {
   border-style: solid;
   border-color: #fff;
 }
