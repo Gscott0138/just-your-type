@@ -5,12 +5,12 @@
 }
 
 .line-3 {
-  font-family: Londrina Outline, sans-serif;
+  font-family: "Londrina Outline", sans-serif;
   color: #fff;
 }
 
 .line-3:hover {
-  font-family: Londrina Solid, sans-serif;
+  font-family: "Londrina Solid", sans-serif;
   color: #fff;
 }
 
@@ -19,12 +19,24 @@ html {
 }
 
 .container {
-  margin: 1  rem;
   border-style: solid;
   border-color: #fff;
 }
 
 .container-3 {
-  font-family: Playfair Display, serif;
+  font-family: "Playfair Display", serif;
   color: #000;
+}
+
+.heading {
+  font-family: "Playfair Display", serif;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .large {
+    opacity: .5;
+    position: relative;
+  }
+
 }
